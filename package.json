@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "MyAircrft FlightDeck",
+  "name": "flightdeck-mb-v1",
   "version": "1.4.2",
   "description": "",
   "main": "gulpfile.js",
